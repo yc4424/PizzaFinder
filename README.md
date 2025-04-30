@@ -1,4 +1,4 @@
-# Pizza Finder
+# Pizza Finder.app
 
 A Streamlit app that recommends pizza spots tailored to your taste. Upload a photo of a pizza, describe the flavors you like, and get personalized results powered by OpenAI and the Yelp API.
 
